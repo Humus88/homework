@@ -1,0 +1,17 @@
+# Default ignored files
+/shelf/
+/workspace.xml
+# Editor-based HTTP Client requests
+/httpRequests/
+/.idea
+dist
+node_modules
+.vscode
+.eslintcache
+.log
+.env
+!.env.example
+package-lock.json
+scripts/temp*.graphql
+coverage
+*.DS_Store
